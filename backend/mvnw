@@ -1,0 +1,2 @@
+#!/bin/sh
+exec java -jar "$HOME/.m2/wrapper/dummy.jar" "$@"
